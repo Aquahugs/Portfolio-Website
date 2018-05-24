@@ -99,7 +99,7 @@ class About extends React.Component {
                      and simplicity through design.<br/>
 
                      During my freetime these days I like to learn about
-                     decentralized applications and play Hearthstone. Currently
+                     decentralized applications, build webapps and play Hearthstone. Currently
                      working at Honda Advanced Design, Im always eager to expand
                       my knowledge in all fields.<br/>
 
@@ -190,7 +190,7 @@ class About extends React.Component {
                      and simplicity through design.<br/>
 
                      During my freetime these days I like to learn about
-                     decentralized applications and play Hearthstone. Currently
+                     decentralized applications, build webapps and play Hearthstone. Currently
                      working at Honda Advanced Design, Im always eager to expand
                       my knowledge in all fields.<br/>
 
@@ -281,7 +281,7 @@ class About extends React.Component {
                      and simplicity through design.<br/>
 
                      During my freetime these days I like to learn about
-                     decentralized applications and play Hearthstone. Currently
+                     decentralized applications, build webapps and play Hearthstone. Currently
                      working at Honda Advanced Design, Im always eager to expand
                       my knowledge in all fields.<br/>
 

@@ -28,7 +28,6 @@ class Navbar extends React.Component {
           </a>
         </Link>
 
-
         <div  id="navbarNav">
           <ul className ="navbar-nav">
             <li className ="nav-item active">
