@@ -28,7 +28,7 @@ import image19 from '../assets/images/SketchBook/image19.jpg'
 import image20 from '../assets/images/SketchBook/image20.jpg'
 import image21 from '../assets/images/SketchBook/image21.jpg'
 import image22 from '../assets/images/SketchBook/image22.jpg'
-
+import image23 from '../assets/images/SketchBook/image23.jpg'
 import BackButton from '../shared/BackButton';
 import BacktoTop from '../shared/BacktoTopButton';
 import ProjectFooter from '../shared/ProjectFooter';
@@ -125,6 +125,9 @@ class SketchBook extends React.Component {
                     </Fade>
                     <Fade bottom>
                       <img src={image22}/>
+                    </Fade>
+                    <Fade bottom>
+                      <img src={image23}/>
                     </Fade>
                   </Col>
                 </Row>

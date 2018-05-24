@@ -19,6 +19,9 @@ padding: 5%;
   font-weight: bold;
   padding-top: 5%;
 }
+.bio{
+  padding-bottom: 15%;
+}
 
 .resume h3 {
   font-size: 1em;

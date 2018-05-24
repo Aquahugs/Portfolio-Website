@@ -50,7 +50,7 @@ class CoinBase extends React.Component {
                     <Row className = "CbBackground">
                         <Col xs = "4">
                             <h1 style = {{
-                              fontFamily:'Archivo Black',
+                              fontFamily:'Heebo',
                               fontSize:'60px',
                               color:'white',
                               borderBottom:'2px solid white',
@@ -79,7 +79,7 @@ class CoinBase extends React.Component {
                       </Col>
                       <Col xs ="3">
                         <h1 style = {{
-                          fontFamily:'Archivo Black',
+                          fontFamily:'Heebo',
                           fontSize:'45px',
                           color:'white',
                           paddingTop:'40%'
@@ -109,7 +109,7 @@ class CoinBase extends React.Component {
                           <Col xs = "2" style={{paddingTop:'15%'}}>
                             <Fade bottom duration={800}>
                               <h1 style = {{
-                                fontFamily:'Archivo Black',
+                                fontFamily:'Heebo',
                                 fontSize:'40px'
                                 }}>Familiar form factor
                               </h1>
@@ -174,7 +174,7 @@ class CoinBase extends React.Component {
                 <Row className = "CbBackground">
                   <Col xs = '12'>
                       <h1 style = {{
-                        fontFamily:'Archivo Black',
+                        fontFamily:'Heebo',
                         fontSize:'60px',
                         color:'white',
                         borderBottom:'2px solid white',
@@ -207,7 +207,7 @@ class CoinBase extends React.Component {
                 <Col xs = '12' style={{paddingTop:'5%'}}>
                   <Fade bottom duration={800}>
                     <h1 style = {{
-                      fontFamily:'Archivo Black',
+                      fontFamily:'Heebo',
                       fontSize:'40px'
                       }}>Familiar form factor
                     </h1>
@@ -289,7 +289,7 @@ class CoinBase extends React.Component {
                     <Row className = "MobileCbBackground">
                       <Col xs = '12'>
                           <h1 style = {{
-                            fontFamily:'Archivo Black',
+                            fontFamily:'Heebo',
                             fontSize:'20px',
                             color:'white',
                             borderBottom:'2px solid white',
@@ -311,7 +311,7 @@ class CoinBase extends React.Component {
                     <Row style = {{background:'#d9d8da'}}>
                       <Col xs = '12' style = {{textAlign:'center'}}>
                         <h1 style = {{
-                          fontFamily:'Archivo Black',
+                          fontFamily:'Heebo',
                           fontSize:'23px',
                           color:'white',
                         }}>UI UX</h1>
@@ -333,7 +333,7 @@ class CoinBase extends React.Component {
                     <Col xs = '12' style={{paddingTop:'15%',textAlign:'center'}}>
                       <Fade bottom duration={800}>
                         <h1 style = {{
-                          fontFamily:'Archivo Black',
+                          fontFamily:'Heebo',
                           fontSize:'40px',
 
                           }}>Familiar form factor
