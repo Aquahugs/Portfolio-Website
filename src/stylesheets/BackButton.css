@@ -1,0 +1,36 @@
+
+.backBtn {
+    text-decoration: none;
+    position: fixed;
+    margin-top: 60px;
+    margin-left: 60px;
+    z-index: 200;
+    transition: all .2s ease-in-out;
+
+}
+.backBtnTablet {
+
+    text-decoration: none;
+    position: fixed;
+    margin-left: 5%;
+    z-index: 200;
+    transition: all .2s ease-in-out;
+}
+.backBtnTablet a {
+    color: black;
+}
+
+.backBtnTablet:hover {
+    color: black;
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.backBtn a {
+    color: black;
+}
+
+.backBtn:hover {
+    color: black;
+    cursor: pointer;
+    transform: scale(1.1);
+}

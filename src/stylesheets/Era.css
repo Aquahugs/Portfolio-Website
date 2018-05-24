@@ -1,0 +1,121 @@
+.brandContainer4 {
+  height: 100vh;
+  width: 100%;
+  margin: 0 !important;
+}
+.brandLanding4 {
+  background: url('../assets/images/Era/image1.jpg');
+  color: white;
+  font-family: 'Archivo Black';
+  max-width: 100%;
+}
+
+.mugenTitle {
+  position: absolute;
+  bottom: 25%;
+  padding-left: 70px;
+}
+
+
+.intropassage {
+  text-align: center;
+  margin-top: 10%;
+}
+
+.banner2 img{
+  max-width: 100%;
+  width: 100%;
+}
+
+.banner2 {
+  margin-left: 0 !important;
+  margin-right: 0  !important;
+  width: 100%;
+}
+
+.title2{
+  padding: 0  !important;
+}
+
+.importwallet h1{
+  font-family: 'Heebo', sans-serif;
+  font-weight: bold;
+}
+
+/* mobile styles */
+.MmugenTitle{
+  padding: 12%;
+}
+.MbrandContainer4 {
+  height: 100vh;
+  width: 100%;
+  margin: 0 !important;
+}
+.MbrandLanding4 {
+  background: url('../assets/images/Era/mobileimage1.jpg');
+  color: white;
+  font-family: 'Archivo Black';
+  max-width: 100%;
+}
+
+.Mobileimportwallet h1{
+  font-family: 'Heebo', sans-serif;
+  font-weight: bold;
+  font-size: 1em;
+}
+
+.Mobileimportwallet video {
+  max-width: 100%;
+
+}
+
+.MobileimageRow video, img {
+  max-width: 100%;
+}
+
+
+
+.video1 {
+  padding: 0  !important;
+}
+.video1 video{
+  max-width: 100%;
+}
+
+.row2 {
+
+  margin-left: 0 !important;
+  margin-right: 0  !important;
+  width: 100%;
+}
+
+.wireframe img {
+  max-width: 100%;
+}
+
+.wireframe {
+  margin-top:  10%;
+  margin-bottom:  10%;
+}
+
+.image3 img {
+  max-width: 100%;
+}
+.row3 {
+  margin-top: 10%;
+}
+.image3 {
+  margin-left: 0 !important;
+  margin-right: 0  !important;
+  padding: 0 !important;
+}
+
+.row4 {
+  margin-left: 0 !important;
+  margin-right: 0  !important;
+  width: 100%;
+}
+.video2 video{
+    max-width: 100%;
+    margin-top:10%;
+}

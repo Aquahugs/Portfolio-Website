@@ -1,0 +1,31 @@
+.bg-light{
+  background-color: white !important;
+}
+.navbar-brand{
+
+  padding-right: 50%;
+  font-size: 30px !important;
+}
+
+.subtext{
+  font-size: 14px;
+  color: #bfbfbf;
+  padding-left: 2%;
+  font-weight: bold;
+}
+
+.navbar {
+  margin: 0 auto;
+  width: 100%;
+  margin-top: 1% !important;
+}
+
+.navbar-nav {
+  float: right !important;
+  margin-left: 50%;
+}
+
+.subtext2 {
+  font-family: 'Heebo', sans-serif;
+  font-weight: bold;
+}

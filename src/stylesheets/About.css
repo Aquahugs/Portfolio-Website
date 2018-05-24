@@ -1,0 +1,65 @@
+.resume {
+  margin: auto 0 !important;
+  height: auto;
+padding: 5%;
+}
+
+.leftcol img {
+  float: left;
+  padding-bottom:10%;
+}
+.resume img {
+  border-bottom: 1px #9b9b9b solid;
+  padding-bottom: 5%;
+}
+
+.bio h3{
+  font-size: 1em;
+  font-family: 'Heebo', sans-serif;
+  font-weight: bold;
+  padding-top: 5%;
+}
+
+.resume h3 {
+  font-size: 1em;
+  font-family: 'Heebo', sans-serif;
+  font-weight: bold;
+  padding-top: 5%;
+}
+
+.resume p{
+  font-size: 0.7em;
+}
+.aboutinfo h1  {
+  font-family: 'Heebo', sans-serif;
+  font-weight: bold;
+  font-size: 1em;
+  color: #9b9b9b;
+
+}
+
+.aboutinfo h2  {
+  font-family: 'Heebo', sans-serif;
+  font-weight: bold;
+  font-size: 1em;
+  color: #9b9b9b;
+  padding-top: 5%;
+  border-top: 1px solid #9b9b9b;
+}
+
+.aboutinfo li {
+  list-style: none;
+  padding-top: 2%;
+}
+
+.aboutinfo p {
+  font-size: 1em;
+}
+
+
+.contact {
+  font-weight: bold;
+}
+
+
+.leftcolumnn {}

@@ -1,0 +1,47 @@
+
+.backBtn {
+    text-decoration: none;
+    position: fixed;
+    margin-top: 60px;
+    margin-left: 60px;
+    z-index: 200;
+    transition: all .2s ease-in-out;
+
+}
+.top{
+  font-size: 0.8em;
+}
+.BacktoTop {
+    text-decoration: none;
+    position: fixed;
+    margin-top: 30%;
+    margin-left: 90%;
+    z-index: 200;
+    transition: all .2s ease-in-out;
+}
+
+.BacktoTop img {
+  opacity: 0.6;
+}
+.BacktoTop img:hover {
+  opacity: 1;
+}
+
+.backBtnTablet a {
+    color: black;
+}
+
+.backBtnTablet:hover {
+    color: black;
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.backBtn a {
+    color: black;
+}
+
+.backBtn:hover {
+    color: black;
+    cursor: pointer;
+    transform: scale(1.1);
+}

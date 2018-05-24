@@ -1,0 +1,92 @@
+
+
+.brief h1 {
+  font-family: 'Heebo', sa  ns-serif;
+  font-weight: bold;
+  font-size: 3em;
+
+}
+
+.brandtitle h2 {
+  font-family: 'Heebo', sans-serif;
+  font-weight: bold;
+  font-size: 3em;
+  padding-top: 10%;
+
+}
+
+
+.firstvideo{
+  max-width: 100%;
+}
+
+
+.firstvideo video{
+  max-width: 100%;
+  width: 100%;
+}
+
+.firstvideo {
+  margin:0 !important;
+  background-color: #e7e6e8;
+
+}
+
+.orange{
+  padding: 0  !important;
+}
+
+.brief {
+  text-align: center;
+  padding: 5%;
+}
+
+.brand {
+  margin: 0 auto;
+}
+
+.finalimages{
+  margin:  auto 0;
+  text-align: center;
+  width: 50%;
+}
+
+.finalimages img {
+  padding-top: 5%;
+  max-width:  90%;
+}
+
+/** Mobile CSS **/
+.Mobilefinalimages{
+margin:  auto 0;
+text-align: center;
+width: 50%;
+}
+.Mobilefinalimages img {
+  max-width: 100%;
+  padding-top: 15%;
+}
+
+.Mobilebrand{
+  margin: 0 auto;
+  max-width: 100%;
+}
+.Mobilebrief h1 {
+  font-family: 'Heebo', sans-serif;
+  font-weight: bold;
+  font-size: 0.8em;
+  text-align: center;
+  padding-top: 10%;
+}
+
+.Mobilebrandtitle h2{
+  font-family: 'Heebo', sans-serif;
+  font-weight: bold;
+  font-size: 0.8em;
+  padding-top: 10%;
+  text-align: center;
+}
+
+.Mobilebrand img {
+  max-width: 100%;
+}

@@ -1,0 +1,154 @@
+
+.CoinBaseContainer img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+.CoinBaseContainer video {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.CbBackground{
+  margin: 0!important
+}
+
+.section1{
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+.section2 {
+  background-color: #D9D8DA;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+
+}
+
+
+
+
+
+.info{
+  text-align: center;
+}
+.cb{
+  font-family: 'Archivo Black';
+  font-size: 35px;
+  margin-top: 8%;
+}
+
+.cbText{
+  font-family: 'Open sans';
+  font-size: 14px;
+  line-height:200%;
+}
+.uiuxtext{
+  font-family: 'Open sans';
+  font-size: 14px;
+  line-height:200%;
+}
+.uiuxdemo2{
+  z-index: -9999;
+
+}
+
+.CbBackground{
+    height: 100%;
+    background-color: #e0e0e0;
+    padding: 10%;
+    padding-left: 20%;
+
+}
+
+.macbook{
+  height: 100%;
+  background: linear-gradient(#d6dde5,#f1f2f6);
+  padding: 1%;
+  padding-top: 10%;
+  padding-bottom: 10%;
+  margin: 0 !important;
+
+}
+.MacbookContainer{
+    padding: 5%;
+    padding-top: 5%;
+}
+.wallet{transition: all .3s ease-in-out;}
+.wallet:hover{transform: scale(1.1);}
+
+.purpbox {
+  height: 100vh;
+  background-color: #6751ac;
+}
+.purp2{
+  width: 100% ;
+  transition: all .1s ease-in-out;
+}
+.purp2:hover{transform: scale(1.07);}
+
+.bluebox {
+  height: 100vh;
+  background-color: #a0d8ff;
+}
+.blue2{
+  width: 100%;
+  transition: all .1s ease-in-out;
+}
+.blue2:hover{  transform: scale(1.07);}
+
+.redbox{
+  height: 100vh;
+  background-color: #f9a27e;
+}
+.red2{
+  width: 100%;
+  transition: all .1s ease-in-out;
+}
+.red2:hover{
+  transform: scale(1.07);
+}
+.yellowbox{
+  height:100vh;
+  background-color: #f5d13f;
+}
+
+.yellow2{
+  width: 100%;
+  transition: all .1s ease-in-out;
+}
+.yellow2:hover{transform: scale(1.07);}
+
+
+
+/* Tablet **/
+
+.Tabletmacbook {
+  max-width: 100%;
+  background: linear-gradient(#d6dde5,#f1f2f6);
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+
+.CBTabletrow1 {
+  max-width: 100%;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* Mobile */
+.MobileCbBackground {
+  height: 100%;
+  background-color: #e0e0e0;
+
+}
+
+.Mobilemacbook {
+  max-width: 100%;
+  background: linear-gradient(#d6dde5,#f1f2f6);
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  text-align: center;
+
+}

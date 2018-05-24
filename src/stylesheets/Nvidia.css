@@ -1,0 +1,100 @@
+.brandLanding {
+  background: url('../assets/images/Nvidia/image2.jpg');
+  color: white;
+  font-family: 'Archivo Black';
+  max-width: 100%;
+}
+
+.videotest{
+  margin:0 !important;
+  padding: 0 !important
+}
+.videotest video{
+  max-width: 100%;
+  padding: 0 ;
+  margin:0;
+}
+.videotestcol {
+  max-width: 100%;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  margin:0 !important;
+}
+
+.brandContainer {
+  height: 100vh;
+  width: 100%;
+  margin: 0 !important;
+}
+
+.mugenTitle h2 {
+  font-family: 'Heebo', sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+.mugenTitle h3 {
+  color:white;
+}
+
+.mugenTitle {
+  position: absolute;
+  bottom: 25%;
+  padding-left: 70px;
+}
+
+
+.nvidiapc h1,p {
+  padding-left:
+}
+.nvidiapc h1{
+  padding-top: 20%;
+  color: #f0f0f0;
+  font-family: 'Heebo', sans-serif;
+  font-weight: bold;
+}
+.behindscenes img,  video{
+    max-width: 100%;
+}
+
+.behindscenes{
+  max-width: 100%;
+}
+
+.video1 video{
+    max-width: 100%;
+}
+
+.video1{
+  background-color: #3A393A;
+}
+
+.yup {
+  background-color: #B6B6B6;
+}
+
+.yup img{
+  max-width: 100%;
+}
+
+.computer{
+  margin: 0 auto;
+  max-width: 100%;
+  padding: 0;
+}
+
+.computer h1 {
+  color: #252525;
+  font-family: 'Heebo', sans-serif;
+  font-weight: bold;
+  padding-top: 35%;
+  font-size: 1.3em;
+}
+
+.center-block {
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   padding-top: 5%;
+    padding-bottom: 5%;
+}

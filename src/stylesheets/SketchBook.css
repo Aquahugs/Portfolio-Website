@@ -1,0 +1,10 @@
+.sketches{
+  margin:  auto 0;
+  text-align: center;
+  width: 50%;
+}
+
+.sketches img {
+  padding-top: 5%;
+  max-width:  90%;
+}
